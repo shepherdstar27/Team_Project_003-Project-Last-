@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b0b8ea90e78dee02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e4e559c7a8f27420",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +202,8 @@
   },
   "active": "8047b4e0102523b8",
   "lastOpenFiles": [
-    "서버·DB 포트폴리오.md",
     "코드 컨벤션(수정 필요).md",
+    "서버·DB 포트폴리오.md",
     "무제.canvas",
     "라스트/환영합니다!.md",
     "라스트/서버·DB 포트폴리오.md",
