@@ -11,10 +11,14 @@
             "id": "8047b4e0102523b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "코드 컨벤션(수정 필요).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "코드 컨벤션(수정 필요)"
             }
           }
         ]
@@ -214,7 +218,14 @@
   },
   "active": "8047b4e0102523b8",
   "lastOpenFiles": [
+    "서버·DB 포트폴리오.md",
+    "코드 컨벤션(수정 필요).md",
     "무제.canvas",
+    "라스트/환영합니다!.md",
+    "라스트/서버·DB 포트폴리오.md",
+    "라스트/Excalidraw/Drawing 2026-09-18 19.14.39.excalidraw.md",
+    "라스트/Excalidraw",
+    "라스트",
     "환영합니다!.md"
   ]
 }
