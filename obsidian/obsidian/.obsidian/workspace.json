@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/백엔드 2_1 (정리).md",
+                "file": "백엔드/백엔드 2_2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "백엔드 2_1 (정리)"
+              "title": "백엔드 2_2"
             }
           }
         ],
@@ -231,8 +231,8 @@
   },
   "active": "fbf4df354415c5d4",
   "lastOpenFiles": [
-    "백엔드/백엔드 2_1.md",
     "백엔드/백엔드 2_1 (정리).md",
+    "백엔드/백엔드 2_1.md",
     "백엔드/백엔드 2_2.md",
     "백엔드/백엔드 1_2 (정리).md",
     "백엔드/백엔드 1_2.md",
